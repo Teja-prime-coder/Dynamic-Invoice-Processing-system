@@ -89,7 +89,7 @@ public class DynamicInvoiceProcessing {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("*******************************************");
-        System.out.println("            KEEP CALM, it's a LAND ROVER");
+        System.out.println("          KEEP CALM, it's a LAND ROVER          ");
         System.out.println("*******************************************\n");
         System.out.println("Welcome to the Land Rover Dynamic Invoice Processing System!");
         System.out.print("Please enter your name: ");
